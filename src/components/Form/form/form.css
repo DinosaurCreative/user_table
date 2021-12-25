@@ -1,0 +1,9 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  margin: 36px 64px 56px;
+  row-gap: 28px;
+  color: #818C99;
+  font-size: 14px;
+}

@@ -1,0 +1,11 @@
+.table__titles {
+  display: flex;
+  flex-direction: row; 
+  justify-content: space-between;
+  height: 40px;
+  background-color: #fff;
+  border-radius: 6px;
+  padding: 0 113px 0 32px;
+  margin-bottom: 4px;
+  align-items: center;
+}

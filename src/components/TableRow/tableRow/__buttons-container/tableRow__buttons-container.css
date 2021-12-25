@@ -1,0 +1,6 @@
+.tableRow__buttons-container {
+  display: flex;
+  flex-direction: row;
+  column-gap: 16px;
+  align-items: center;
+}

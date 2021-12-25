@@ -1,0 +1,12 @@
+.popup__button_place_popup {
+  background-color: #E4E5E8;
+  color:#6D7885;
+} 
+
+.popup__button_place_popup:hover {
+  background-color: #c9c8c8;
+}
+
+.popup__button_place_popup:active {
+  background-color: #a8a8a8;
+}

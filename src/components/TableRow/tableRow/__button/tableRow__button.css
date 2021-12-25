@@ -1,0 +1,20 @@
+.tableRow__button {
+  width: 32px;
+  height: 32px;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: none;
+  border-radius: 6px;
+  transition: all .3s ease;
+}
+
+.tableRow__button:hover {
+  box-shadow: 3px 3px 5px rgb(0, 0, 0);
+}
+
+.tableRow__button:active {
+  box-shadow: 1px 1px 2px #000;
+}

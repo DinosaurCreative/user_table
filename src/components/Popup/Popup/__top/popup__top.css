@@ -1,0 +1,9 @@
+.popup__top {
+  background-color: #353D4B;
+  border-radius: 6px 6px 0 0;
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  height: 56px;
+}

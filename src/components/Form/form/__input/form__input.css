@@ -1,0 +1,22 @@
+.form__input {
+  background-color: #F9FAFC;
+  border: 2px solid #EBECEF;
+  border-radius: 6px;
+  height: 36px;
+  padding: 0;
+  padding-left: 12px;
+  outline: transparent;
+}
+
+.form__input:focus {
+  border-bottom: 1px solid rgba(71, 105, 255, 0.397);
+}
+
+.form__input::placeholder {
+  color: #B8C1CC;
+  transition: all .3s ease;
+}
+
+.form__input:focus::placeholder {
+  color: transparent;
+}

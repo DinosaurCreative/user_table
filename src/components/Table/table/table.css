@@ -1,0 +1,8 @@
+.table {
+   margin: 0 0 auto 280px;
+   background-color: #E5E5E5;
+   height: calc(100% - 56px);
+   display: flex;
+   flex-direction: column;
+   padding: 0 32px;
+}
