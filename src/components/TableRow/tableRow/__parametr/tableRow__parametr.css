@@ -3,5 +3,7 @@
   flex-direction: column;
   min-width: 100px;
   margin: 0;
-
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
 }
