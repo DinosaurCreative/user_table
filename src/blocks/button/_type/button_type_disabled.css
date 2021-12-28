@@ -1,0 +1,15 @@
+.button_type_disabled {
+  cursor: auto;
+  background-color: #fff;
+  border: grey 1px solid;
+  color: grey;
+}
+
+.button_type_disabled:hover {
+  background-color: #fff;
+}
+
+.button_type_disabled:active {
+  background-color: #fff;
+}
+

@@ -8,4 +8,5 @@
 @import url(./blocks/button/button.css);
 @import url(./blocks/button/_place/button_place_table.css);
 @import url(./blocks/button/_place/popup__button_place_popup.css);
+@import url(./blocks/button/_type/button_type_disabled.css);
 @import url(./components/Form/Form.css);
