@@ -1,7 +1,7 @@
 # Тестовое задание от нанимателя.
 
 ## Ссылка на работу
-## https://user-table-eight.vercel.app/
+- https://user-table-eight.vercel.app/
 
 Задач:
 
